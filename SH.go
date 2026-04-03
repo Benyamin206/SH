@@ -1,5 +1,5 @@
 package SH
 
 func SH(name string) string {
-	return "SH"
+	return "SH" + name
 }
