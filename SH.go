@@ -1,5 +1,5 @@
 package SH
 
-func SH() string {
+func SH(name string) string {
 	return "SH"
 }
